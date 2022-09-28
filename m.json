@@ -446,6 +446,11 @@
 {"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url=","mobile":1},
 {"name":"ckmov","type":0,"url":"http://www.ckmov.vip/api.php?url="}, 
 { "name": "易看", "url": "https://analysis.yikan.one/analysis/player/analysis.php?v="},
+{"name":"HF影视","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext":{"flag":["duoduozy","renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P","wuduzy"]}},
+{"name":"鸿途","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+{"name": "WdsEcsxs","url": "https://player.iuk.ink/m3u8.php?url="},
+{"name":"☑铭人解析","type":0,"url":"https://parse.123mingren.com/?url="},
+	  
 
 
 {"name":"okjx", "type":0, "url":"https://okjx.cc/?url=" },
