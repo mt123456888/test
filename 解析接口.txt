@@ -1,0 +1,6 @@
+{"name":"dbapp","url": "https://dbapp.hengj.cn/rr/tg/?url="},
+{"name":"七小时","url":"https://jxxxx.sanmitt.cn/index.php?url="},
+{"name":"legen","url": "https://json.legendwhb.cn//llq//?url="},
+{"name":"ax","url": "https://api.ax.jx.cn/?url="},
+{"name":"365","url":"https://jx.fulitang365.com/?url="},
+{"name":"托乌","type":0,"url":"https://jx.ppjbk.cn/?url="},
