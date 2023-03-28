@@ -421,7 +421,7 @@
 "jar": "https://gitee.com/mt123456888/tv/raw/master/jar/Yoursmile.jar;md5;192BDD9454BEFB27EDF923DD0FB68FCB"},
 
 
-{"key":"mtv_xp_象棋","name":"哔哩┃象棋","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/mt123456888/tvhome/raw/master/xp/%E6%A3%8B%E7%89%8C%E5%A8%B1%E4%B9%901.json",
+{"key":"mtv_xp_象棋","name":"哔哩┃象棋","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/mt123456888/tvhome/raw/master/xp/%E8%B1%A1%E6%A3%8B.json",
 "jar": "https://gitee.com/mt123456888/tvhome/raw/master/jar/cs104.jar;md5;1D44C183F84DEE3303F2EADF06C185DB"},
 
 
