@@ -71,7 +71,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/mt123456888/test/main/xyq/聚合.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/xyq/聚合.json"
     },
 	  
 	  {"key":"csp_Bdys","name":"🐞哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
