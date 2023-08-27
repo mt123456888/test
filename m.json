@@ -13,7 +13,13 @@
       "changeable": 0,
       "ext": "https://drpy.cainisi.cf/js/drpy.js"
     },
-
+  {
+      "key": "直播转点播",
+      "name": "🐼️┃电视┃直播",
+      "type": 3,
+      "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播仓.json"
+    },
     {
       "key": "csp_77",
       "name": "🐞酷云七七",
@@ -131,7 +137,7 @@
       "key": "Auete影视",
       "name": "Auete┃影视",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/lib/drpy2.min.js",
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -327,7 +333,8 @@
       "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",
       "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
     },
-  {"key":"csp_DiDuan","name":"🧲新6V磁力(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/","jar": "https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
+ {"key": "drpy_js_xb6v", "name": "PG | 新版6v[js]", "type": 3, "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js", "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/xb6v.js", "playerType": "1", "searchable": 1, "quickSearch": 1, "changeable": 1 },
+  //{"key":"csp_SixV","name":"🧲新6V磁力(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/","jar": "https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
   {"key":"csp_xpath_biditdcl","name":"🧲哔嘀磁力(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/biditd.json"},
 
 {"key": "csp_XYQHiker_BT天堂","name":"🧲BT天堂(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/BT天堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
