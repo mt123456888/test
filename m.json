@@ -70,7 +70,7 @@
       "key": "厂长资源",
       "name": "厂长┃影视",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/drpy2.min.js",
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -83,7 +83,7 @@
       "key": "低端影视",
       "name": "低端┃影视",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/drpy2.min.js",
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -131,7 +131,7 @@
       "key": "Auete影视",
       "name": "Auete┃影视",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -225,16 +225,7 @@
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/NO视频.json"
 		},
-	  {
-			"key": "101影视",
-			"name": "🖐101影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/101影视.json"
-		},
+	
 	  {
 			"key": "777影视",
 			"name": " 7️⃣777影视",
@@ -243,7 +234,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/777影视.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/777影视.json",
+		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"
 		},
 	{"key":"csy_XYQHiker_MP4ba","name":"Ⓜ️MP4吧(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/imaxwPH.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
         {"key":"csp_XYQH_xiaoxiao","name":"🎌小小影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/无名小站.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
@@ -308,7 +300,7 @@
 
 
 
-{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/mt123456888/tv/raw/master/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
+{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/xb/空中课堂.json"},
 {
             "key" : "美食",
             "name" : "🍔美食合集",
@@ -335,7 +327,7 @@
       "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",
       "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
     },
-  {"key":"csp_DiDuan","name":"🧲新6V磁力(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/","jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"},
+  {"key":"csp_DiDuan","name":"🧲新6V磁力(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/","jar": "https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
   {"key":"csp_xpath_biditdcl","name":"🧲哔嘀磁力(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/biditd.json"},
 
 {"key": "csp_XYQHiker_BT天堂","name":"🧲BT天堂(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/BT天堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
