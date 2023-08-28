@@ -132,8 +132,8 @@
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/555电影[V2].js"
     },
-  // {"key":"csp_Auete","name":"🐼Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-    {
+   {"key":"csp_Auete","name":"🐼Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+  /*  {
       "key": "Auete影视",
       "name": "Auete┃影视",
       "type": 3,
@@ -143,7 +143,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/Auete.js"
-    },
+    },  */
 	    {
       "key": "B站影视",
       "name": "B站┃影视",
@@ -153,8 +153,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/B站影视.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/B站影视.js"
     },
+	  {"key":"drpy_素白白","name":"📁素白白[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
+		  "ext":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/素白白.js"},
 	  {
       "key": "TVB云播",
       "name": "TVB┃影视",
@@ -167,17 +169,7 @@
       "ext": "https://drpy.cainisi.cf/js/TVB云播.js"
     },
 
-	   {
-      "key": "素白白影视",
-      "name": "素白白┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/素白白影视.json"
-    },
+	
 	    {
       "key": "APP影院",
       "name": "APP┃影视",
@@ -252,34 +244,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-       
-     {
-      "key": "A8音乐",
-      "name": "🎵A8┃MV",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://drpy.cainisi.cf/js/A8音乐.js"
-    },
 
     {
     "key": "csp_Bili",
@@ -795,7 +759,8 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	 "spider": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/230626.dylib;md5;FDE01B569724386E7C72C675BA7D9658"
+	 "spider": "https://tvbox.cainisi.cf/jar/fty0827.jar;md5;0b81c0ac4917ca94b8446758d09227e5"
+	// "spider": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/230626.dylib;md5;FDE01B569724386E7C72C675BA7D9658"
   //"spider":"https://gitee.com/mt123456888/tvhome/raw/master/jar/230314.jar;md5;573BE8213FA597C2E473C0ADF14B3A82"
  // "spider":"https://wanjune.github.io/static/tvbox/jar/230314.dylib;md5;573BE8213FA597C2E473C0ADF14B3A82"
  // "spider" : "https://gitee.com/mt123456888/tvhome/raw/master/jar/999.jar;md5;4FBFCC5F52D2C063F0EA4F0B9BCC04E4"
