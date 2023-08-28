@@ -39,7 +39,8 @@
             "filterable": 0,
             "ext": {
                 "token": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
-                "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json"
+                "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json",
+		     "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;260fe4a3faeebfb72a5ad2487e0a4131"
             }
         },
 	   {
@@ -50,7 +51,8 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+		    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;260fe4a3faeebfb72a5ad2487e0a4131"
         },
  {
       "key": "荐片",
