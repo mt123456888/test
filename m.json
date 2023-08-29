@@ -375,8 +375,6 @@
 {"name":"1号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 
 
-{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/3.12.13"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-
 
         {
 			"name": "dy6g",
@@ -413,7 +411,9 @@
 
 
 {"name":"不知名","type":0,"url":"https://vd2.machenike.top/jiexi/?url="},
-
+{"name": "mao","type": 0,"url": "https://dm.xbqgx.com/?url="},
+ {"name": "pandown","type": 0,"url": "http://pandown.pro/app/kkdy.php?url="},
+ 
 
 
 {"name":"ckmov","type":0,"url":"http://www.ckmov.vip/api.php?url="},
@@ -529,7 +529,10 @@
 	  {"name": "官解4","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
           {"name":"daina","type":1,"url":"https://vip.daina.hk/fyzy/json.php?&url="},
 
-         {"name":"刚佬","type":1,"url":"http://json.g9.pub:66/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+	  {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/3.12.11"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
+
+
+         
 
 
   ],
