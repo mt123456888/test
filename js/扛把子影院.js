@@ -11,7 +11,7 @@ var rule={
 		class_parse:'#sj-nav-1&&ul&&li;a&&Text;a&&href;.*/(.*?).html',
 	    cate_exclude:'福利',
 		play_parse:true,
-		lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}',
+		lazy:'',
 		limit:6,
 		推荐:'.main&&ul&&li;a&&title;img&&src;i&&Text;a&&href',
 		double:true, // 推荐内容是否双层定位
