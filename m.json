@@ -78,7 +78,7 @@
         },
 	  
 	  {"key":"聚合","name":"💞聚合解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-	  {"key":"csp_Bdys","name":"🐞哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
+	  {"key":"csp_Bdys","name":"🐞哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
 	    {  
       "key": "厂长资源",
       "name": "厂长┃影视",
@@ -169,8 +169,10 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
-	{"key":"drpy_素白白","name":"📁素白白[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
+	{"key":"drpy_素白白","name":"素白白[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
 	 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/素白白.js"},
+
+
 	  {
       "key": "TVB云播",
       "name": "TVB┃影视",
@@ -202,14 +204,28 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/零度影视.js"
     },
-	 
-	    {
-      "key": "云云",
-      "name": "云云┃BPQ",
+	   {
+      "key": "drpy_js_在线之家",
+      "name": "影视 | 在线之家[js]",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/云云.json"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js"
     },
+	 {
+      "key": "drpy_js_大师兄影视",
+      "name": "影视 | 大师兄影视[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/大师兄影视.js"
+    },
+	   {
+      "key": "drpy_js_扛把子影院",
+      "name": "影视 | 扛把子影院[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/扛把子影院.js"
+    },
+	    
 	  {
 			"key": "apv2_雪山",
 			"name": "🏔雪山之颠",
@@ -264,7 +280,51 @@
                "内地剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","古装片","犯罪片","惊悚片","冒险片","悬疑片","其他剧","邵氏电影"
             ]},
 	  {"key":"大漠资源","name":"大漠资源","type":1,"api":"https://damozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
+ {
+      "key": "大鹏",
+      "name": "大鹏┃4K",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://s.ether-mine.com/api.php/app/"
+    },
+	   {
+      "key": "365",
+      "name": "365秒播",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://guan.yy365.vip/api.php/app/"
+    },
+	 {
+      "key": "狐狸影视",
+      "name": "狐狸影视",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },  
+	   {
+      "key": "csp_aidi_api",
+      "name": "爱迪高清APP",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+    },
 
     {
     "key": "csp_Bili",
@@ -275,12 +335,13 @@
     "quickSearch": 0,
     "filterable": 0,
     "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/Bibi.json",
-    "jar": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E5%A8%B1%E4%B9%90jar/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%80%9A%E7%94%A8.jar"
+    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fty0827.jar;md5;0b81c0ac4917ca94b8446758d09227e5"
   },
 
 
 
-{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/xb/空中课堂.json"},
+{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/xb/空中课堂.json",
+    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fty0827.jar;md5;0b81c0ac4917ca94b8446758d09227e5"},
 {
             "key" : "美食",
             "name" : "🍔美食合集",
@@ -289,7 +350,8 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 1,
-            "ext" : "https://gitcode.net/go/TVBox/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+            "ext" : "https://gitcode.net/go/TVBox/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json",
+    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fty0827.jar;md5;0b81c0ac4917ca94b8446758d09227e5"
         },
         
 
