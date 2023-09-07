@@ -55,27 +55,14 @@
             
    {"key":"csp_appysv2_迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
    {"key":"yc","name":"💖分享影巢","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"https://download.kstore.space/download/4127/ali/app.jar"},
-	   {
-            "key" : "js_v2-yj",
-            "name" :"💖分享遇见",
-            "type" : 3,
-            "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/遇见.js"
-        },
+	  
 	   {
             "key" : "js_lggq",
             "name" :"💖分享超清",
             "type" : 3,
             "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/自营蓝光2.js"},
-	    {
-            "key": "2K",
-            "name": "💖分享|2K",
-            "type": 3,
-            "playerType": 1,
-            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext": "https://notabug.org/ygfxz/6/raw/main/js/V5.js"
-        },
+	  
 	  
 	  {"key":"聚合","name":"💞聚合解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 	  {"key":"csp_Bdys","name":"🐞哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
@@ -211,13 +198,7 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js"
     },
-	 {
-      "key": "drpy_js_大师兄影视",
-      "name": "影视 | 大师兄影视[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/大师兄影视.js"
-    },
+	
 	   {
       "key": "drpy_js_扛把子影院",
       "name": "影视 | 扛把子影院[js]",
@@ -281,17 +262,7 @@
                "内地剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","古装片","犯罪片","惊悚片","冒险片","悬疑片","其他剧","邵氏电影"
             ]},
 	  {"key":"大漠资源","name":"大漠资源","type":1,"api":"https://damozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
- {
-      "key": "大鹏",
-      "name": "大鹏┃4K",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://s.ether-mine.com/api.php/app/"
-    },
+
 	   {
       "key": "365",
       "name": "365秒播",
@@ -327,18 +298,7 @@
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"
     },
 
-    {
-    "key": "csp_Bili",
-    "name": "★哔哩合集",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0,
-    "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/娱乐包/Bibi.json",
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fty0827.jar;md5;0b81c0ac4917ca94b8446758d09227e5"
-  },
-
+   
 
 
 {"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/xb/空中课堂.json",
@@ -470,12 +430,12 @@
 
 
 
-{"name":"m3u8tv","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 
 
-{"name":"不知名","type":0,"url":"https://vd2.machenike.top/jiexi/?url="},
-{"name": "mao","type": 0,"url": "https://dm.xbqgx.com/?url="},
- {"name": "pandown","type": 1,"url": "http://pandown.pro/app/kkdy.php?url="},
+//{"name":"不知名","type":0,"url":"https://vd2.machenike.top/jiexi/?url="},
+//{"name": "mao","type": 0,"url": "https://dm.xbqgx.com/?url="},
+// {"name": "pandown","type": 1,"url": "http://pandown.pro/app/kkdy.php?url="},
  
 
 
@@ -590,14 +550,9 @@
 
           {"name": "官解3","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
 	  {"name": "官解4","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
-          {"name":"daina","type":1,"url":"https://vip.daina.hk/fyzy/json.php?&url="},
+          //{"name":"daina","type":1,"url":"https://vip.daina.hk/fyzy/json.php?&url="},
 
-	  {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-          //{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
-         //{"name": "虾米2","type": 0,"url": "https://dm.xmflv.com:4433/?url="},
-	  {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
-
-
+	  {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
 
          
 
