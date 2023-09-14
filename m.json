@@ -446,6 +446,18 @@
 	   {"name":"邦宁云","type":0,"url":"https://video.isyour.love/Search/SearchJx?t=&id="},
 	 
           { "name": "xyplayer", "type": 0,  "url": "http://xyys.xinyizhishu.top/?url=" },
+	 { "name": "kaishuo",  "type": 0,  "url": "https://v.kaishuokj.com/?url=" },
+	
+	 {  "name": "qiyiw", "type": 0, "url": "https://www.qiyiw.net/?v=" },
+	
+	 {  "name": "鲨鱼",  "type": 0, "url": "https://www.m4411.com/vip.html?url=" },
+	 { "name": "vipjx", "type": 1, "url": "https://json.vipjx.cnow.eu.org/?url="  },
+	 {  "name": "完美解析", "type": 0, "url": "https://yinghua.ee/addons/dp/player/index.php?key=0&url=" },
+	 {  "name": "完美解析1",  "type": 0, "url": "https://yinghua.ee/addons/dp/player/dp.php?key=0&from=&id=&api=&url=" },
+	 {  "name": "冰豆云播", "type": 0,  "url": "https://www.bingdou.vip/?url=" },
+	 {  "name": "冰豆云播1", "type": 0, "url": "https://player.bingdou.vip/?url="  },
+	 { "name": "shake", "type": 0,  "url": "https://dy.shake123.cc/?v=" },
+	 {  "name": "念心智能",  "type": 0,  "url": "http://47.97.115.218:90/?url=" },
 	
 
 	  
