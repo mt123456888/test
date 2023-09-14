@@ -438,13 +438,19 @@
 {"name":"8090","type":0,"url":"https://www.8090g.cn/?url="},
 	  
 	  {"name":"80901","type":0,"url":"https://www.8090.la/8090/?url="},
-	  {"name":"无名小站","type":0,"url":"https://www.administratorw.com/video.php?url="},
+	  {"name":"冰豆1","type":0,"url":"https://api.qianqi.net/vip/?url="},
 	    {"name":"dmjx","type":0,"url":"https://dmjx.m3u8.tv/?url="},
 	  {"name":"playm3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
 	  {"name":"云析","type":0,"url":"https://jx.yparse.com/index.php?url="},
 	  {"name":"玩的嗨","type":0,"url":"http://tv.wandhi.com/go.html?url="},
-	  
+	   {"name":"邦宁云","type":0,"url":"https://video.isyour.love/Search/SearchJx?t=&id="},
+	  {"name":"邦宁云1","type":1,"url":"https://video.isyour.love/player/getplayer?url="},
+	  {"name":"解析la","type":1,"url":"https://api.jiexi.la/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+          { "name": "xyplayer", "type": 0,  "url": "http://xyys.xinyizhishu.top/?url=" },
+	 { "name": "kaishuo", "type": 0, "url": "https://v.kaishuokj.com/?url=" },
+	
 
+	  
 //{"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 
  {"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
@@ -637,7 +643,37 @@
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
     },
-	 
+	  {
+      "name": "哥哥",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
+      "ext": {
+        "flag": [
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.0"
+        }
+      }
+    },
+	
 	
 	 {
       "name": "ckplayer",
