@@ -406,7 +406,7 @@
  {"name":"全民1","type":0,"url":"http://vip.wpsseo.cn/line.php?n=1&url="},
  {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
 	  
-{"name":"jy","type":0,"url":"https://player.we-vip.com:2083/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	  
+
  {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	  
 {"name":"1907","type":0,"url":"https://videocdn.ihelpy.net/jiexi/m1907.html?m1907jx=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	  
  
@@ -620,6 +620,7 @@
         }
       }
     },
+	  {"name":"jy","type":0,"url":"https://player.we-vip.com:2083/?url="},	  
 	  {"name":"邦宁云","type":0,"url":"https://video.isyour.love/player/GetPlayer_JxMore?url=" },
 	{"name":"🈹OVV","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
 	 {"name":"m3u8","type":0,"url":"http://cp.139.media/jiexi.php?url="},
