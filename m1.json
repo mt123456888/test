@@ -4,7 +4,24 @@
 {"key": "drpy_js_直播转点播","name": "📺┃电视┃道长","type": 3,"api": "https://gitee.com/mt123456888/tvhome/raw/master/js/直播转点播2.js","searchable": 0,"quickSearch": 0,"ext": "https://gitee.com/mt123456888/tvhome/raw/master/js/直播仓.json"},
 
 {"key":"drpy_js_豆瓣","name":"豆瓣搜索[js]","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","ext":"https://gitee.com/mt123456888/tvhome/raw/master/js/douban.js","searchable":0,"quickSearch":0,"changeable":0},
-
+ {
+      "key": "drpy_js_哔哩影视",
+      "name": "影视 | 哔哩影视[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
+    },
+	      {
+      "key": "360影视",
+      "name": "360┃官源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
+    },
 {
    "key": "drpy_js_酷云77",
    "name": "酷云77[DRPY]",
@@ -514,6 +531,15 @@
 {"name":"PRAWIX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
 {"name":"菜尼丝","type":0,"url":"https://jx.cainisi.cf/?v="},
+{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"xmflv1","type":0,"url":"https://jx.xmflv.com/?v="},
+ {"name":"xmflv2","type":0,"url":"https://jx.xmflv.cc/?url="},
+{"name":"xmflv3","type":0,"url":"https://jx.xmflv.cc/?v="},
+{"name": "BL","type": 0,"url": "https://svip.bljiex.com/?v="},
+{"name": "BL2","type": 0,"url": "https://svip.bljiex.cc/?v="},
+ {"name": "BL","type": 0,"url": "https://svip.bljiex.com/?url="},
+{"name": "BL2","type": 0,"url": "https://svip.bljiex.cc/?url="},
+	 
 {
 			"name": "dy6g",
 			"type": 0,
@@ -555,7 +581,7 @@
 {"name": "虾米2","type": 0,"url": "https://dm.xmflv.com:4433/?url="},
 {"name": "BL","type": 0,"url": "https://vip.bljiex.com/?v="},
 {"name": "BL2","type": 0,"url": "https://svip.bljiex.cc/?v="},
-
+ { "name": "bilibili", "type": 1, "url": "https://api.bilibili.com/x/player/playurl?avid="  },
 { "name": "麒麟","type": 0, "url": "https://www.cygqw.com/jiexi/jiekou-2/?url=" },
 
  {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
@@ -834,7 +860,8 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider" : "https://gitee.com/mt123456888/tvhome/raw/master/jar/custom_spider1.jar"
+ "spider": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/230626.dylib;md5;FDE01B569724386E7C72C675BA7D9658"
+ // "spider" : "https://gitee.com/mt123456888/tvhome/raw/master/jar/custom_spider1.jar"
   //"spider":"https://qlql765.github.io/gg/0906.jar;md5;407F5087DF6860F97AF981E56848ADB6"
   //"spider": "https://gitee.com/mt123456888/tv/raw/master/jar/XC0915.jar;md5;5BD7786D7EE685C746870B3B163B5D27"
   //"spider": "https://gitea.com/maoys/TV/raw/branch/main/qj.jar;md5;7eacb357cf27abce92ed497367221e5a"
