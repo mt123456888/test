@@ -51,6 +51,7 @@
 //{"name": "诺讯","type": 0,"url": "https://www.nxflv.com/?url="},
 //{"name": "诺讯1","type": 0,"url": "https://yun.nxflv.com/?url="}, 
 //{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
+//{"name":"xmflv1","type":0,"url":"https://jx.xmflv.com/?v="},
 //{"name": "虾米2","type": 0,"url": "https://dm.xmflv.com:4433/?url="},
 {"name": "BL","type": 0,"url": "https://svip.bljiex.com/?v="},
 {"name": "BL2","type": 0,"url": "https://svip.bljiex.cc/?v="},
@@ -66,7 +67,7 @@
  {"name":"刚刚1","type":0,"url":"http://svip.fulishe.live/?url="},
  {  "name": "醉仙", "type": 0, "url": "https://jx.zui.cm/?url="},
  {  "name": "欧歌", "type": 0, "url": "http://tv.nxog.eu.org/%E6%AC%A7%E6%AD%8C.html?url=" },
-
+ { "name": "bilibili", "type": 1, "url": "https://api.bilibili.com/x/player/playurl?avid="  },
 
 
 
