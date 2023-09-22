@@ -620,20 +620,32 @@
         }
       }
     },
+	  {
+      "name": "二龙腾飞",
+      "type": 1,
+      "url": "http://119.91.123.253:1234/Api/cs.php?url="
+    },
+    {
+      "name": "三羊开泰",
+      "type": 1,
+      "url": "http://119.91.31.224:82/txqq.php?url="
+    },
+	 {
+      "name": "四季平安",
+      "type": 1,
+      "url": "http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url="
+    },
+   
+    {
+      "name": "测试",
+      "type": 1,
+      "url": "https://parses.ruixianliang.repl.co/?url="
+    },
+	
 	  {"name":"jy","type":0,"url":"https://player.we-vip.com:2083/?url="},	  
 	  {"name":"邦宁云","type":0,"url":"https://video.isyour.love/player/GetPlayer_JxMore?url=" },
 	{"name":"🈹OVV","type":0,"url":"https://json.ovvo.pro/jx.php?url="},
-	 {"name":"m3u8","type":0,"url":"http://cp.139.media/jiexi.php?url="},
-	 {
-      "name": "ckplayer",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    }
+	 {"name":"m3u8","type":0,"url":"http://cp.139.media/jiexi.php?url="}
 
 
   ],
