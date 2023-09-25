@@ -47,7 +47,7 @@
 "搜索链接": "href=&& title=",
 "搜索链接前缀": "",
 
-"分类url": "https://www.novipnoad.net/{cateId}/page/{catePg}/",
+"分类url": "https://www.novipnoad.net/movie/{cateId}/page/{catePg}/",
 "分类": "剧集$tv#港剧$tv/hongkong#台剧$tv/taiwan#欧美剧$tv/western#韩剧$tv/korea#日剧$tv/japan#泰剧$tv/thailand#土耳其剧$tv/turkey#电影$movie#动画$anime#综艺$shows#音乐$music#短片$short#其他$other",
 "分类二次截取": "",
 "分类数组": "",
