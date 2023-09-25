@@ -188,7 +188,7 @@
 			"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
 		},
 	  
-            /*  {
+             {
 			"key": "NO视频",
 			"name": "NO视频",
 			"type": 3,
@@ -197,7 +197,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/NO视频.json"
-		}, */
+		}, 
 	
 	 {
 			"key": "777影视",
@@ -207,7 +207,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/777影视.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/777影视.json",
+		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"
 		}, 
 
 	  {
@@ -220,7 +221,7 @@
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/黑影影视.json"
 		},
-	  {
+	/*  {
 			"key": "WZ影视",
 			"name": "🙄WZ影视",
 			"type": 3,
@@ -230,7 +231,8 @@
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/WZ影视.json",
 		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD" 
-		},
+		},  */
+	
     {
       "key": "qiyue",
       "name": "👑七月蓝光👑",
