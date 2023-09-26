@@ -2,7 +2,7 @@
 	"作者": "心魔",
 	"站名": "777影视",
 	"主页url": "https://www.777ys1.vip/",
-	 "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54#Cookie$myannoun=1; Hm_lvt_c08e84f2c697dc9d0af77ff0dbfb3d6d=1670321007,1671784910,1672743612; Hm_lvt_d06dda04a24e89e1117ee1455e217c30=1670321007,1671784910,1672743612; Hm_lpvt_d06dda04a24e89e1117ee1455e217c30=1672743885; Hm_lpvt_c08e84f2c697dc9d0af77ff0dbfb3d6d=1672743885",
+	
 	"热门": "",
     "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#",
 
@@ -29,7 +29,7 @@
 	"播放列表": "",
 	"播放标题":"",
 	"播放链接": "href=\"&&\"",
-	"播放链接前缀":"https://www.777ys1.vip",
+	"播放链接前缀":"https://jx.jsonplayer.com/player/?url=https://www.777ys1.vip",
 	"筛选": {
 		"1": [
 			{
