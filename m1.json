@@ -101,7 +101,9 @@
 		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu0927.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580"},
 {  "key": "csp_毛子",  "name": "🅱️毛子影视|T追剧", "type": 3, "api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/毛毛子影视.json",
 		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu0927.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580"},
-
+ { "key": "csp_非凡", "name": "🅱️非凡资源|T追剧", "type": 3,  "api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/非凡资源网.json",
+		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu0927.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580" },
+	  
 {
       "key": "酷影",
       "name": "💡酷影┃App",
