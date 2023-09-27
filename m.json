@@ -202,16 +202,7 @@
 	
 	
 
-	  {
-			"key": "黑影影视",
-			"name": "黑影影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/黑影影视.json"
-		},
+	
 	/*  {
 			"key": "WZ影视",
 			"name": "🙄WZ影视",
@@ -237,11 +228,12 @@
     },
 	  {"key":"笑笑影视","name":"🚛笑笑影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/笑笑影视.json",
 	 "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD" },
-
+ {  "key": "csp_毛子",  "name": "🅱️毛子影视|T追剧", "type": 3, "api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/毛毛子影视.json",
+		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu0927.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580" },
 
 	  
-	{"key":"csy_XYQHiker_MP4ba","name":"Ⓜ️MP4吧(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/MP4吧.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"},
-        {"key":"csp_XYQH_xiaoxiao","name":"🎌小小影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/mt123456888/test/blob/main/XYQH/无名小站.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
+	// {"key":"csy_XYQHiker_MP4ba","name":"Ⓜ️MP4吧(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/MP4吧.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"},
+        {"key":"csp_XYQH_xiaoxiao","name":"小小影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/mt123456888/test/blob/main/XYQH/无名小站.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
         {"key":"csp_XYQH_秋霞电影","name":"🚧秋霞电影(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/秋霞电影.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"},
         {"key":"csp_XYQH_子子影视","name":"🚧子子影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/子子影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"},
 	    
@@ -258,7 +250,10 @@
     },
 	  {"key":"csp_探探","name":"🏵影探(APP)","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn",
 		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;ed5d521ad71063b99b06e9ad4c7f9bca" },
-	  {"key":"csp_奇奇","name":"🍓奇奇(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
+	{"key": "csp_嘉靓","name":"🏖️嘉良[V2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
+	  {"key":"csp_maolv_open","name":"🌄毛驴影视[SP]","type": 3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/OpenSpider.jar"},
+
+
 	  
 	  {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
