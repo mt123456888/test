@@ -3,7 +3,7 @@
 	"站名": "免费思古",
 	"主页url": "https://siguyy.cc/",
 	"热门": "",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
+    "分类": "电影$m#电视剧$tv#综艺$va#动漫$ct#",
 
 	"分类url": "https://siguyy.cc/type/{cateId}/page/{catePg}/-----------.html",
 	"数组": "ewave-img-wrapper lazyload&&text-row-2",
@@ -30,7 +30,7 @@
 	"播放标题":"",
 	"播放链接": "href=\"&&\"",
 	"筛选": {
-		"1": [
+		"m": [
 			{
 				"key": "cateId",
 				"name": "类型",
@@ -362,7 +362,7 @@
 				]
 			}
 		],
-		"2": [
+		"tv": [
 			{
 				"key": "cateId",
 				"name": "类型",
