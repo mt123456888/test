@@ -258,11 +258,11 @@
 	  {"key":"追忆影视","name":"🐠追忆影视","type":3,"api":"csp_Appto","playerType":2,"ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/6.txt"},
 	  {"key":"喵喵影视","name":"🦉喵喵影视","type":3,"api":"csp_Appto","ext":"u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE=",
 		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/6.txt"},
-	  {"key":"mino4K","name":"🍭mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":""},
+	  {"key":"mino4K","name":"mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/0.zip"},
 	  { "key":"csp_XBPQ_仁", "name":"乐仁影视", "type":3, "api":"csp_XBPQ", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/乐仁.json" }, 
 	
-	  { "key" : "js_v2-zy",  "name" :"💖分享追忆", "type" : 3, "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/追忆.js" },
-      { "key" : "js_v2-yj", "name" :"💖分享遇见", "type" : 3, "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", "ext" : "https://notabug.org/ygfxz/6/raw/main/js/遇见.js" },
+	  { "key" : "drpy_js_追忆",  "name" :"💖分享追忆", "type" : 3, "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/追忆.js" },
+      { "key" : "drpy_js_遇见", "name" :"💖分享遇见", "type" : 3, "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", "ext" : "https://notabug.org/ygfxz/6/raw/main/js/遇见.js" },
 
 	   {
       "key": "csp_aidi_api",
