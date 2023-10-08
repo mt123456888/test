@@ -5,7 +5,7 @@
 	"热门": "",
     "分类": "电影$movie#港剧$tv/hongkong#欧美剧$tv/western#韩剧$tv/korea#",
 
-	"分类url": "https://www.novipnoad.net/",
+	"分类url": "https://www.novipnoad.net/{cateId}/page/{catePg}",
 	"数组": "<a&&item-info hidden",
 	"副标题": "",
 	"图片": "data-original=&& alt>",
