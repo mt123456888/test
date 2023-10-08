@@ -21,14 +21,13 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播仓.json"
     },
     {
-      "key": "csp_77",
-      "name": "🐞酷云七七",
+      "key": "鲲娱七七",
+      "name": "酷云七七",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/6.txt"
+      "changeable": 1,
+      "ext": "https://drpy.cainisi.cf/js/酷云77.js"
     },
 	  {
       "key": "csp_FanYY",
