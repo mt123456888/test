@@ -257,13 +257,13 @@
       "filterable": 1,
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/好戏.json"
     },
-	   {
+	/*   {
       "key": "蜗牛有广告",
       "name": "🐌┃蜗牛┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/蜗牛.json"
-    },
+    }, */
 	  
 	  {"key":"csp_探探","name":"🏵影探(APP)","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn",
 		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;ed5d521ad71063b99b06e9ad4c7f9bca" },
@@ -363,8 +363,7 @@
       "changeable": 1,
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/XYQ.jar;md5;ab7a2bf5947c745657f25c80b337224b"
     },
-    { "key": "阿里云集合", "name": "阿里云集合", "type": 3, "api": "csp_阿里云集合", "searchable": 1, "filterable": 0, "switchable": 0, "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt", "timeout": 30,
-	    "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar"},
+    { "key": "阿里云集合", "name": "阿里云集合", "type": 3, "api": "csp_阿里云集合", "searchable": 1, "filterable": 0, "switchable": 0, "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt", "timeout": 30},
 	  
     {"key":"csp_Dovx","name":"😾七夜(搜索)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_Pansearch","name":"😾盘寻(搜索)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0},
