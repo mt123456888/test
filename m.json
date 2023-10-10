@@ -20,14 +20,15 @@
       "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播仓.json"
     },
-    {
-      "key": "酷云77",
+    
+	  {
+      "key": "csp_Kunyu77",
       "name": "酷云七七",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/酷云77.js"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar;md5;5388d60fb0519fa359339c3252fa5e69"
     },
 	  {
       "key": "csp_FanYY",
@@ -120,7 +121,7 @@
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/555电影[V2].js"
     },
-   {"key":"csp_Auete","name":"🐼Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+  
   /*  {
       "key": "Auete影视",
       "name": "Auete┃影视",
@@ -175,18 +176,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js"
     },
 	
-	 
-	    
-	  {
-			"key": "apv2_雪山",
-			"name": "🏔雪山之颠",
-			"type": 3,
-			"playerType": 2,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-		},
 	  
              {
 			"key": "NO视频",
@@ -247,26 +236,16 @@
             "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/迷迷剧.json",
             "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/XYQHiker_ali/custom_spider.jar"
         },
-	    {
-      "key": "csp_XBPQ_haoxi",
-      "name": "⚡️┃好戏┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/好戏.json"
-    },
-	/*   {
+	  
+	  {
       "key": "蜗牛有广告",
-      "name": "🐌┃蜗牛┃影视",
+      "name": "蜗牛影视有广告",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/蜗牛.json"
-    }, */
+    }, 
 	  
-	  {"key":"csp_探探","name":"🏵影探(APP)","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn",
-		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;ed5d521ad71063b99b06e9ad4c7f9bca" },
+	
 	{"key": "csp_嘉靓","name":"🏖️嘉良[V2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 	  {"key":"csp_maolv_open","name":"🌄毛驴影视[SP]","type": 3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/OpenSpider.jar"},
 
@@ -274,7 +253,31 @@
         
 	  {"key":"追忆影视","name":"🐠追忆影视","type":3,"api":"csp_Appto","playerType":2,"ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/6.txt"},
 	  
-	  {"key":"mino4K","name":"mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/6.txt"},
+	  {
+      "key": "Mino",
+      "name": "Mino应用",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir",
+		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar;md5;5388d60fb0519fa359339c3252fa5e69"
+	  },
+	  
+	  {
+      "key": "橘子",
+      "name": "橘子应用",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA=",
+		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar;md5;5388d60fb0519fa359339c3252fa5e69"
+	  },
+	  
+	  
 	  {
             "key": "伊人",
             "name": "伊人应用",
@@ -363,7 +366,8 @@
       "changeable": 1,
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/XYQ.jar;md5;ab7a2bf5947c745657f25c80b337224b"
     },
-    { "key": "阿里云集合", "name": "阿里云集合", "type": 3, "api": "csp_阿里云集合", "searchable": 1, "filterable": 0, "switchable": 0, "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt", "timeout": 30},
+    { "key": "阿里云集合", "name": "阿里云集合", "type": 3, "api": "csp_阿里云集合", "searchable": 1, "filterable": 0, "switchable": 0, "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt", "timeout": 30,
+    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar"},
 	  
     {"key":"csp_Dovx","name":"😾七夜(搜索)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_Pansearch","name":"😾盘寻(搜索)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0},
