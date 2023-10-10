@@ -267,7 +267,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+3/",
-		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar"
+		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar;md5;5388d60fb0519fa359339c3252fa5e69"
         },
 	 
       { "key" : "玉米", "name" :"💖分享遇见", "type" : 3, "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", "ext" : "https://notabug.org/ygfxz/6/raw/main/js/遇见.js" },
@@ -346,7 +346,9 @@
       "changeable": 1,
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/XYQ.jar;md5;ab7a2bf5947c745657f25c80b337224b"
     },
-    { "key": "阿里云集合", "name": "阿里云集合", "type": 3, "api": "csp_阿里云集合", "searchable": 1, "filterable": 0, "switchable": 0},
+    { "key": "阿里云集合", "name": "阿里云集合", "type": 3, "api": "csp_阿里云集合", "searchable": 1, "filterable": 0, "switchable": 0, "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt", "timeout": 30,
+	    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/custom_spider.jar;md5;44F94D38951161C9CC99695D2BB49B57"},
+	  
     {"key":"csp_Dovx","name":"😾七夜(搜索)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_Pansearch","name":"😾盘寻(搜索)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0},
 {"key":"Yunsou","name":"🍭云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
