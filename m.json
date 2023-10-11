@@ -444,7 +444,7 @@
       }
     },
 
-	   {"name":"分享玉米","type":1,"url":"http://61.147.93.21:8090/index.php?url="},
+	  // {"name":"分享玉米","type":1,"url":"http://61.147.93.21:8090/index.php?url="},
       
 	  {
       "name": "二龙腾飞",
@@ -460,10 +460,8 @@
     },
 	 
 	  { "name": "七七", "type": 1, "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=" }, 
-	  
-	  { "name": "蓝鹰", "type": 1, "url": "http://42.157.128.109:2323/CH/app/tv.php?url=" }, 
-
-	   {"name":"刚刚","type":0,"url":"http://so.fulishe.live/?url="},
+	 
+	   {"name":"BL","type":0,"url":"https://svip.bljiex.com/?v="},
 	 {"name":"xmflv","type":0,"url":"https://jx.xmflv.cc/?url="}
 	
 	
