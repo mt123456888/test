@@ -68,6 +68,10 @@
  {  "name": "醉仙", "type": 0, "url": "https://jx.zui.cm/?url="},
  {  "name": "欧歌", "type": 0, "url": "http://tv.nxog.eu.org/%E6%AC%A7%E6%AD%8C.html?url=" },
  { "name": "bilibili", "type": 1, "url": "https://api.bilibili.com/x/player/playurl?avid="  },
+ { "name": "m3u81", "type": 0, "url": "https://jx.m3u8.tv/jx/jx.php?url="  },
+	  {  "name": "云解析",  "type": 0,  "url": "https://yparse.ik9.cc/index.php?url=&url=" },
+	   {  "name": "云解析1",  "type": 0,  "url": "http://jiexi44.qmbo.cn/jiexi/?url=" },
+ {"name":"m3u8","type":0,"url":"http://cp.139.media/jiexi.php?url="},
 
 
 
