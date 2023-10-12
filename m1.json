@@ -129,6 +129,15 @@
 
  
 {"key":"360","name":"💘360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+	  {"key":"蜗牛","name":"💢蜗牛(有广告)","type":3,"api":"csp_XBPQ","playStartTime":15,"searchable":1,"quickSearch":1,"filterable":0,
+		  "ext":{"二次截取":"module-items&&<footer id=+module-item-cover",
+			  "数组":"module-item-pic&&module-item-cover",
+			  "副标题":"module-item-text*>&&</div>",
+			  "简介":"剧情：</span>&&</span>",
+			  "播放数组":"\"module-blocklist\">&&</div>",
+			  "播放标题":"<span>&&</span>",
+			  "分类":"电影$1#海外剧$2#日韩剧$21#动漫$20",
+		  "分类url":"https://v.woniufan.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m"}},
 
  {
             "key": "drpy_js_菜狗",
