@@ -134,15 +134,8 @@
       "changeable": 1,
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
     },
-	  {
-            "key": "drpy_js_菜狗",
-            "name": "菜狗",
-            "type": 3,
-            "api": "https://git.886.be/https://raw.githubusercontent.com/RayLiang9/0/main/lib/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 1,
-            "ext": "https://git.886.be/https://raw.githubusercontent.com/RayLiang9/0/main/js/菜狗.js"
-        },
+	 {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,
+		 "jar":"https://download.kstore.space/download/4127/2345.txt"},
 	 
 	   {
             "key" : "drpy_js_奇珍异兽",
@@ -439,7 +432,7 @@
 	 
 	  { "name": "七七", "type": 1, "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=" }, 
 	 
-	   {"name":"BL","type":0,"url":"https://svip.bljiex.com/?url="},
+	    {  "name": "醉仙",  "type": 0,  "url": "https://jx.zui.cm/?url=" },
 	 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="}
 	
 	
