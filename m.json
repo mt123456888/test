@@ -99,29 +99,15 @@
     },
     
 	   {
-      "key": "555电影",
-      "name": "555┃影视",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/555电影[V2].js"
-    },
-  
- 
-	
-	{"key":"drpy_素白白","name":"素白白[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
-	 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/素白白.js"},
-   
-	   {
       "key": "drpy_js_在线之家",
       "name": "影视 | 在线之家[js]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js"
     },
+	  
+	{"key":"drpy_素白白","name":"素白白[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
+	 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/素白白.js"},
 	
 	  
              {
@@ -136,15 +122,7 @@
 		     "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"
 		}, 
 	
-	
-	
-  
-	
- {  "key": "csp_毛子",  "name": "🅱️毛子影视|T追剧", "type": 3, "api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/毛毛子影视.json",
-		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu0927.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580" },
 
-	  
-	
            {
       "key": "360影视",
       "name": "360┃官源",
@@ -193,7 +171,7 @@
       "name": "蜗牛影视有广告",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/蜗牛.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/蜗牛.json",
 	 "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar;md5;5388d60fb0519fa359339c3252fa5e69"
     }, 
 	
@@ -461,8 +439,8 @@
 	 
 	  { "name": "七七", "type": 1, "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=" }, 
 	 
-	   {"name":"BL","type":0,"url":"https://svip.bljiex.com/?v="},
-	 {"name":"xmflv","type":0,"url":"https://jx.xmflv.cc/?url="}
+	   {"name":"BL","type":0,"url":"https://svip.bljiex.com/?url="},
+	 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="}
 	
 	
 
