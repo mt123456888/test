@@ -65,6 +65,17 @@
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/荐片.js"
     },
+
+	  
+	  {
+      "key": "csp_777ys1",
+      "name": "777",
+      "type": 3,
+      "api": "csp_777ys1",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar;md5;5388d60fb0519fa359339c3252fa5e69"
+    },
  {
 			"key": "777影视",
 			"name": " 7️⃣777影视",
@@ -420,7 +431,7 @@
         }
       }
     },
-	   {  "name": "醉仙",  "type": 0,  "url": "https://jx.zui.cm/?url=" },
+	   {  "name": "醉仙",  "type": 0,  "url": "https://jx.zui.cm/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]} },
 	   {  "name": "醉仙1",  "type": 0,  "url": "https://json.zui.cm/vip/?url=" },
 	  { "name": "醉仙2", "type": 0, "url": "https://jx.zui.cm/vip/?url="  },
 	  
