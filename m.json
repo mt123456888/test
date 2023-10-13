@@ -184,6 +184,7 @@
       "key": "蜗牛弹幕",
       "name": "🐌┃蜗牛┃影视",
       "type": 3,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD",
       "api": "csp_XBPQ",
       "ext": {
         "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
