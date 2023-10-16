@@ -201,7 +201,7 @@
     },
 	  
 	  
-	 {
+	/* {
       "key": "蜗牛弹幕",
       "name": "🐌┃蜗牛┃影视",
       "type": 3,
@@ -216,7 +216,7 @@
         "分类": "电影$1#日韩剧$21#海外剧$2#动漫$20",
         "分类url": "https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
       }
-    },
+    }, */
 	
 	  {"key":"csp_maolv_open","name":"🌄毛驴影视[SP]","type": 3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/OpenSpider.jar"},
 
