@@ -66,17 +66,7 @@
       "ext": "https://drpy.cainisi.cf/js/荐片.js"
     },
 
-	  
-	  {
-      "key": "csp_777ys1",
-      "name": "777",
-      "type": 3,
-      "api": "csp_777ys1",
-      "searchable": 1,
-      "changeable": 1,
-	 "ext": "https://www.777ys1.com/",
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar;md5;5388d60fb0519fa359339c3252fa5e69"
-    },
+	
  {
 			"key": "777影视",
 			"name": " 7️⃣777影视",
@@ -86,7 +76,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/777影视.json",
-		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu0927.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580"
+	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar;md5;5388d60fb0519fa359339c3252fa5e69"
+		//  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu0927.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580"
 		}, 
 	     {
 			"key": "NO视频",
