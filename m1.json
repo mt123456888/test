@@ -1,9 +1,24 @@
 {
   "sites": [
 
-{"key": "drpy_js_直播转点播","name": "📺┃电视┃道长","type": 3,"api": "https://gitee.com/mt123456888/tvhome/raw/master/js/直播转点播2.js","searchable": 0,"quickSearch": 0,"ext": "https://gitee.com/mt123456888/tvhome/raw/master/js/直播仓.json"},
-
-{"key":"drpy_js_豆瓣","name":"豆瓣搜索[js]","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","ext":"https://gitee.com/mt123456888/tvhome/raw/master/js/douban.js","searchable":0,"quickSearch":0,"changeable":0},
+ {
+      "key": "豆瓣",
+      "name": "豆瓣┃推荐",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://drpy.cainisi.cf/js/drpy.js"
+    },
+  {
+      "key": "直播转点播",
+      "name": "🐼️┃电视┃直播",
+      "type": 3,
+      "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播仓.json"
+    },
  {
       "key": "drpy_js_哔哩影视",
       "name": "影视 | 哔哩影视[js]",
@@ -65,7 +80,16 @@
       "ext": "https://drpy.cainisi.cf/js/荐片.js"
     },
 
-	
+	 {
+      "key": "csp_777ys",
+      "name": "777",
+      "type": 3,
+      "api": "csp_777ys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+		 "jar":"http://tv.nxog.top/m/jar.php?id=ou"
+    },
  {
 			"key": "777影视",
 			"name": " 7️⃣777影视",
@@ -140,6 +164,45 @@
 			  "播放标题":"<span>&&</span>",
 			  "分类":"电影$1#海外剧$2#日韩剧$21#动漫$20",
 		  "分类url":"https://v.woniufan.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m"}},
+	   {
+      "key": "js_企鹅",
+      "name": "腾讯",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/qtv.js"
+    },
+	 
+	   {
+            "key" : "drpy_js_奇珍异兽",
+            "name" : "爱奇艺",
+            "type" : 3,
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/奇珍异兽.js"
+        },
+	   {
+      "key": "js_芒果",
+      "name": "芒果",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/baimang.js"
+    },
+    {
+      "key": "js_优酷",
+      "name": "优酷",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/youku.js"
+    },
+	  
 
  {
             "key": "drpy_js_菜狗",
@@ -425,6 +488,10 @@
 	   {  "name": "醉仙",  "type": 0,  "url": "https://jx.zui.cm/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]} },
 	   {  "name": "醉仙1",  "type": 0,  "url": "https://json.zui.cm/vip/?url=" },
 	  { "name": "醉仙2", "type": 0, "url": "https://jx.zui.cm/vip/?url="  },
+	 { "name": "xyplayer","type": 0, "url": "http://xyys.xinyizhishu.top/?url=" },
+	  { "name": "小七", "type": 0, "url": "https://2.08bk.com/?url="  },
+
+
 	  
  {"name":"全民2","type":0,"url":"http://vip.wpsseo.cn/line.php?n=2&url="},
 	   {"name":"全民3","type":0,"url":"http://vip.wpsseo.cn/line.php?n=3&url="},
