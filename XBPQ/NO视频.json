@@ -10,7 +10,7 @@
 	"副标题": "",
 	"图片": "data-original=&& alt>",
 	"标题": "title=\"&&\">",
-	"链接": "href=&&target",
+	"链接": "href=\"&&\"",
 	"搜索模式": "1",
 	"搜索url": "https://www.novipnoad.net/?s={wd}",
 	"搜索数组": "",
