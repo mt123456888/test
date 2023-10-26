@@ -79,6 +79,22 @@
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/荐片.js"
     },
+	   {
+      "key": "AList",
+      "name": "网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "AV",
+            "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
+          }
+        ]
+      }
+    },
 
  {
 			"key": "777影视",
