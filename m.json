@@ -49,7 +49,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt+4k|fhd|auto",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
         "filter": "https://jihulab.com/duomv/xduo/-/raw/main/wogg.json"
       },
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/ali.jar;md5;18ee45921e80c33623b4c0561970666a"
