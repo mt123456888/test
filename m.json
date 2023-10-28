@@ -49,6 +49,17 @@
 		  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/ou.jar;md5;
 0eac078be33d43e0c319780a1edde024"
     },
+	   {
+      "key": "Wogg",
+      "name": "玩偶哥哥|T追剧",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://rihou.cc:88/hccx/玩偶哥哥.json",
+	 "jar":"http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+    },
 	 
  {
       "key": "荐片",
