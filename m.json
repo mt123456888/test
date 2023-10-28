@@ -30,7 +30,7 @@
       "changeable": 1,
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/main.jar;md5;5388d60fb0519fa359339c3252fa5e69"
     },
-	  {
+	/*  {
       "key": "csp_FanYY",
       "name": "玩偶┃云盘",
       "type": 3,
@@ -40,6 +40,19 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
+    }, */
+	   {
+      "key": "csp_Wogg",
+      "name": "💖阿里┃玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt+4k|fhd|auto",
+        "filter": "https://jihulab.com/duomv/xduo/-/raw/main/wogg.json"
+      },
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/ali.jar;md5;18ee45921e80c33623b4c0561970666a"
     },
 	 
  {
