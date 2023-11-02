@@ -214,8 +214,8 @@
 	  
 	  
 	
-	//  {"key":"csp_maolv_open","name":"🌄毛驴影视[SP]","type": 3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/OpenSpider.jar"},
-{"key":"毛驴","name":"🍓毛驴┃直连","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
+	  {"key":"csp_maolv_open","name":"🌄毛驴影视[SP]","type": 3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/OpenSpider.jar"},
+
 	
    
        {
