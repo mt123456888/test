@@ -34,13 +34,25 @@
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
     },  */
-	  {
+	
+	  /* {
       "key": "玩偶内置",
       "name": "玩偶┃T4",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=b5b4985bea39490798844a43238a7707",
 	
 	 "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/ou.jar;md5;0eac078be33d43e0c319780a1edde024"
+    }, */
+
+	   {
+      "key": "t4_wo",
+      "name": "🚛玩偶┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
     },
 	{
       "key": "csp_WoGG",
