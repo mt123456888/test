@@ -23,7 +23,7 @@
 	  {"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
     
 	
-	  {
+	/*  {
       "key": "csp_FanYY",
       "name": "玩偶┃云盘",
       "type": 3,
@@ -33,12 +33,12 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
-    }, 
+    },  */
 	  {
       "key": "玩偶内置",
       "name": "玩偶┃T4",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=b5b4985bea39490798844a43238a7707",
 	
 	 "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/ou.jar;md5;0eac078be33d43e0c319780a1edde024"
     },
