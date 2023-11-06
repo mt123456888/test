@@ -23,7 +23,7 @@
 	  {"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
     
 	
-	/*  {
+	  {
       "key": "csp_FanYY",
       "name": "玩偶┃云盘",
       "type": 3,
@@ -33,7 +33,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
-    }, */
+    }, 
 	  {
       "key": "玩偶内置",
       "name": "玩偶┃T4",
@@ -136,19 +136,10 @@
 		}, 
 	
 
-        /*   {
-      "key": "360影视",
-      "name": "360┃官源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
-    }, */
+      
 
-	  {"key":"csp_SP33","name":"360┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+	{"key":"360","name":"360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+	  
 	 {
       "key": "js_企鹅",
       "name": "腾讯",
@@ -351,10 +342,7 @@
  
  {"name":"全看","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	 
     
- {"name":"巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json.php?url="},
-
-{"name":"绿豆","type":1,"url":"http://pandown.pro/app/lvdou.php?url="},
- 
+ {"name":"巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url="},
 
     {
       "name": "测试",
@@ -364,7 +352,7 @@
 	 
 	  { "name": "七七", "type": 1, "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=" }, 
 	 
-	 {  "name": "醉仙",  "type": 0,  "url": "https://dm.zui.cm/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]} }
+	 {  "name": "xyplayer",  "type": 0,  "url": "http://xyys.xinyizhishu.top/?url=" }
 	
 	
 
