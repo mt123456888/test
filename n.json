@@ -150,7 +150,15 @@
 
       
 
-	{"key":"360","name":"360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+	 {
+      "key": "360影视",
+      "name": "360┃官源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
+    },
 	  
 	 {
       "key": "js_企鹅",
