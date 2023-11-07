@@ -46,7 +46,7 @@
 
 	   {
       "key": "t4_wo",
-      "name": "🚛玩偶┃T4",
+      "name": "玩偶┃T4",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
       "searchable": 1,
@@ -82,7 +82,7 @@
    
 
    {"key":"yc","name":"💖分享影巢","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"https://download.kstore.space/download/4127/ali/app.jar"},
-	
+  
 	  
 	  {"key":"聚合","name":"💞聚合解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 	  {"key":"csp_Bdys","name":"🐞哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
@@ -230,7 +230,7 @@
 	     "jar":"https://git.886.be/https://raw.githubusercontent.com/RayLiang9/0/main/mainjar"
     },
 
-	 
+	{"key":"快影","name":"快影","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/$$$null$$$1"}, 
 	 
      
 	   {
@@ -361,18 +361,13 @@
 	
 	  {"name": "往往","type": 1,"url": "http://wuzei.serv00.net/jx/ww.php?v="},
 	   {"name": "小成","type": 1,"url": "https://bfq.cddys.me/nimasile2/API.php?url="},
-	   { "name": "二龙腾飞", "type": 1, "url": "https://jxjson.cf/json.php?url=", "ext": { "flag": [ "qq", "mgtv","YuMi-vip" ] } },
-	   { "name": "四季平安", "type": 1, "url": "https://wuzei.serv00.net/jx/hx.php?url=" },
-	  {  "name": "咸鱼",  "type": 0,  "url": "https://jx.xyflv.cc/?url=" },
+	   { "name": "二龙", "type": 1, "url": "https://jxjson.cf/json.php?url=", "ext": { "flag": [ "qq", "mgtv","YuMi-vip" ] } },
+	   { "name": "四季", "type": 1, "url": "https://wuzei.serv00.net/jx/hx.php?url=" },
 	 
-	 {  "name": "云解析",  "type": 0,  "url": "https://yparse.ik9.cc/index.php?url=" }
+	 
+	 {  "name": "云解析",  "type": 0,  "url": "https://yparse.ik9.cc/index.php?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]} }
 	
-	
-
-
-  ],
-
-
+    ],
 
 
  // "flags": [
