@@ -289,7 +289,7 @@
 
 
 	  
-	  {
+	/*  {
       "key": "Mp4电影",
       "name": "🧲Mp4电影",
       "type": 3,
@@ -299,7 +299,7 @@
       "filterable": 1,
       "changeable": 1,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/XYQ.jar;md5;ab7a2bf5947c745657f25c80b337224b"
-    },
+    }, */
    
    
 	  
@@ -365,7 +365,7 @@
 	   { "name": "四季", "type": 1, "url": "https://wuzei.serv00.net/jx/hx.php?url=" },
 	 
 	 
-	 {  "name": "云解析",  "type": 0,  "url": "https://yparse.ik9.cc/index.php?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]} }
+	 {  "name": "云解析",  "type": 0,  "url": "https://yparse.ik9.cc/index.php?url=" }
 	
     ],
 
