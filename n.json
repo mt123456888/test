@@ -216,11 +216,6 @@
         "分类": "电影$22#短剧$20#电视剧$21#动漫$23#综艺$24"
       }
     },
-	  
-	  
-	
-	  {"key":"csp_maolv_open","name":"🌄毛驴影视[SP]","type": 3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/OpenSpider.jar"},
-
 	
    
        {
@@ -363,8 +358,14 @@
     },
 	 
 	  { "name": "七七", "type": 1, "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=" }, 
+	
+	  {"name": "往往","type": 1,"url": "http://wuzei.serv00.net/jx/ww.php?v="},
+	   {"name": "小成","type": 1,"url": "https://bfq.cddys.me/nimasile2/API.php?url="},
+	   { "name": "二龙腾飞", "type": 1, "url": "https://jxjson.cf/json.php?url=", "ext": { "flag": [ "qq", "mgtv","YuMi-vip" ] } },
+	   { "name": "四季平安", "type": 1, "url": "https://wuzei.serv00.net/jx/hx.php?url=" },
+	  {  "name": "咸鱼",  "type": 0,  "url": "https://jx.xyflv.cc/?url=" },
 	 
-	 {  "name": "xyplayer",  "type": 0,  "url": "http://xyys.xinyizhishu.top/?url=" }
+	 {  "name": "云解析",  "type": 0,  "url": "https://yparse.ik9.cc/index.php?url=" }
 	
 	
 
