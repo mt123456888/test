@@ -20,7 +20,7 @@
       "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播仓.json"
     },
-	  {"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
+	  {"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;c0a0999c670692bb297b38981fe6de9b"},
     
 	
 	/*  {
@@ -67,8 +67,11 @@
       },
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;5995F4AF461B0969BBF611766ECEB582"
     },
-	  
- {
+    
+	  {"key":"csp_Wobg","name":"玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wobge.run.goorm.io$$$1", "timeout":30},
+      {"key":"校长影视","name":"校长","type":3,"api":"csp_XiaoZhang","ext":"http://127.0.0.1:9978/file/tvfan/token.json","quickSearch":1,"changeable":1,"timeout":30},
+ 
+    {
       "key": "荐片",
       "name": "荐片┃影视",
       "type": 3,
@@ -621,7 +624,7 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
- "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;c0a0999c670692bb297b38981fe6de9b"
+ "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fm.20231104-1015.jar;md5;edc36d93777d3549323e026e67b232b5"
 // "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/230626.dylib;md5;FDE01B569724386E7C72C675BA7D9658"
   //"spider":"https://gitee.com/mt123456888/tvhome/raw/master/jar/230314.jar;md5;573BE8213FA597C2E473C0ADF14B3A82"
  // "spider":"https://wanjune.github.io/static/tvbox/jar/230314.dylib;md5;573BE8213FA597C2E473C0ADF14B3A82"
