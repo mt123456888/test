@@ -133,8 +133,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "changeable": 1,
       "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
     },
