@@ -398,7 +398,7 @@
 	   { "name": "二龙", "type": 1, "url": "https://jxjson.cf/json.php?url=", "ext": { "flag": [ "qq", "mgtv","YuMi-vip" ] } },
 	   { "name": "四季", "type": 1, "url": "https://wuzei.serv00.net/jx/hx.php?url=" },
 
-	  {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?wap=1&url="},
+	 
 	  {
       "name": "dy6g",
       "type": 0,
