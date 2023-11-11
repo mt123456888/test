@@ -340,8 +340,13 @@
 
 
 { "name": "vipjx", "type": 1, "url": "https://json.vipjx.cnow.eu.org/?url="  },
+       
+	  { "name": "七七", "type": 1, "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=" },   
 
-        {
+     {"name":"巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url="},
+  
+
+    /*    {
 			"name": "dy6g",
 			"type": 0,
 			"url": "https://vip.lianfaka.com/vip/?url=",
@@ -352,17 +357,17 @@
 					"Referer": "https://www.dy6g.com/"
 				}
 			}
-		},
-  {"name":"8kvod","type":0,"url":"http://mz_llq.8kvod.com/player/?url="},
+		}, */
 
- {"name":"全民1","type":0,"url":"http://vip.wpsseo.cn/line.php?n=1&url="},
- {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
+
+// {"name":"全民1","type":0,"url":"http://vip.wpsseo.cn/line.php?n=1&url="},
+// {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
 	  
 
- {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	  
+// {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	  
 // {"name":"1907","type":0,"url":"https://videocdn.ihelpy.net/jiexi/m1907.html?m1907jx=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	  
  
- {"name":"全看","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	 
+// {"name":"全看","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	 
       
 
 	    {
@@ -412,44 +417,14 @@
       }
     },
 	
-    {
-      "name": "欧歌API",
-      "type": 1,
-      "url": "http://tv.nxog.top/%E6%AC%A7%E6%AD%8C/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+    {"name":"8kvod","type":0,"url":"http://mz_llq.8kvod.com/player/?url="},
 
-	 {"name":"xm","type":0,"url":"https://jx.xmflv.com/?wap=1&url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+	// {"name":"xm","type":0,"url":"https://jx.xmflv.com/?wap=1&url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
       
-	  {
-      "name": "二龙腾飞",
-      "type": 1,
-      "url": "http://119.91.123.253:1234/Api/cs.php?url="
-    },
-    
+	 {"name": "往往","type": 1,"url": "http://wuzei.serv00.net/jx/ww.php?v="},
+	   {"name": "小成","type": 1,"url": "https://bfq.cddys.me/nimasile2/API.php?url="},
+	   { "name": "二龙", "type": 1, "url": "https://jxjson.cf/json.php?url=", "ext": { "flag": [ "qq", "mgtv","YuMi-vip" ] } },
+	   { "name": "四季", "type": 1, "url": "https://wuzei.serv00.net/jx/hx.php?url=" },
    
     {
       "name": "测试",
@@ -457,7 +432,7 @@
       "url": "https://parses.ruixianliang.repl.co/?url="
     },
 	 
-	  { "name": "七七", "type": 1, "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=" }, 
+	
 	 
 	 {  "name": "醉仙",  "type": 0,  "url": "https://jx.zui.cm/?url=","ext":{"header":{"User-Agent":"Dart/3.0(dart:io)"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]} }
 	
