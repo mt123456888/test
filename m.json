@@ -141,7 +141,8 @@
         "简介": "class=\"detail-content\"style=*>&&</span>",
         "搜索url": "https://novipnoad.vip/search/{wd}----------{catePg}---.html",
         "分类url": "https://novipnoad.vip/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mak", 
-        "分类": "短剧$21#电影$1#电视剧$2#综艺$4#动漫$3#解说$24#纪录片$30#体育比赛$20#足球$26#篮球$27#网球$28#斯诺克$29"}},
+        "分类": "短剧$21#电影$1#电视剧$2#综艺$4#动漫$3#解说$24#纪录片$30#体育比赛$20#足球$26#篮球$27#网球$28#斯诺克$29"},
+		     "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"},
 	
 
            {
