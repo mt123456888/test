@@ -95,6 +95,25 @@
         ]
       }
     },
+	   {
+           "key": "小苹果",
+           "name": "💖分享苹果",
+           "type": 3,
+           "api": "csp_XBPQ",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/小苹果.json",
+		  "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu0927.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580"
+    },
+	  {
+      "key": "仓库",
+      "name": "仓库影院┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {"分类url": "http://761hsck.cc/vodtype/{cateId}-{catePg}.html","分类": "无码Aⅴ$10#国产AV$15#有码$9#欧美$21"},
+		  "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu0927.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580"
+    },
 
  {
 			"key": "777影视",
