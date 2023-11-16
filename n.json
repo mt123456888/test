@@ -200,11 +200,7 @@
     },
 
 	{"key":"快影","name":"快影","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/$$$null$$$1"},
-	  {"key":"玉米","name":"玉米┃App","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
-
-	  {"key":"雨晴","name":"💖分享晴天","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
-	   { "key": "2聚合",  "name": "💖分享遇见", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 2, "filterable": 1, "ext": "http://4k.953365.cn:8090/xgapp.php/v2/" },
-     
+	 
 	   {
       "key": "csp_aidi_api",
       "name": "爱迪高清APP",
