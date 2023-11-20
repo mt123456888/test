@@ -235,7 +235,7 @@
         },
         
 
-{"key":"龙腾资源","name":"龙腾资源","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
+// {"key":"龙腾资源","name":"龙腾资源","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 	  
 
 	     {
@@ -457,7 +457,7 @@
 //"哔哩","zy1080","4k蓝光","内部蓝光" ],
 
 
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","YuMi-vip","ltnb","CL4K","FYNB"],
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","YuMi-vip"],
 
 
   "ijk": [
