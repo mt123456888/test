@@ -113,7 +113,7 @@
 	  
 	  {"key":"快看","name":"快看┃直连","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
 
-	  {"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://ppxzy.net/$$$null$$$1", "timeout":30}, 
+	  {"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://ppxzy.net/$$$null$$$1","jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580", "timeout":30}, 
 	   {
             "key": "嘿嘿",
             "name": "💡嘿嘿┃App",
@@ -125,28 +125,19 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
         },
 	
-	  {"key":"Mayiys","name":"蚂蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+	  {"key":"Mayiys","name":"蚂蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
 	 
 	  {"key":"Cokemv","name":"Cokemv┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"xtqU2bFNHAfAAA8+C3zQKnBrTNXVWfkPhrQ4OL1GgTOVIY74skH3/FP+h+pMd828FlUX2t5rALF24n/
 		  zh6gZBdNalgXzw8k2REzCglPUdTRCy72DyCncdVp3Eghr87XRnpItzVjUJOSFIbgdBSRbEoHkpmDMIEGc+0s6OvuU6TjMurR8SmFEHf1jmDMa56TchDrp/cjk8Rn07J0UoBhJS1Z4BcDr0gWpQz/0+upcHcgQaK4jYzsQptuDvF7BwuTVKKGrpTykhr7+ZA9X9iA9qEFJAY1
 5WTH+sCDPnmg95/0tjoC3Yl2WivD7JlHuirTylgE/kLme5Io0DroC0lFpvbl0ZxnHUfSY7z/OrIJZ9eo/G/BaRGcZfEutbJRRMP1iUDFBm2WYeLZf2/Mrzqm2SoxtIKVPyCacqmnXWNgSmIU3dJO1KyPLooCTkbqmPHi6jDC9dw3d0eS7VyHc0Hk+sSabIX8zLwP3+uXLPXoYR7ZkiJ3SXHLxdauX9T
-YuzrgHMV0LSg7iwuDTWokjt0s8JwezEd11kk0BkNODAGrgWnGeWaZsCcs5cxLdajbEGjD/uHXhy9QtPNVTULq7i79dvaWy9BsrqR8vq4NiQJ40SXsDP0KkYP8FhjRNPzWOypYVLQwUfQwfHtYS9qizTlYEO/1h/Lrm4fXgxtzISxFay0VY="},
+YuzrgHMV0LSg7iwuDTWokjt0s8JwezEd11kk0BkNODAGrgWnGeWaZsCcs5cxLdajbEGjD/uHXhy9QtPNVTULq7i79dvaWy9BsrqR8vq4NiQJ40SXsDP0KkYP8FhjRNPzWOypYVLQwUfQwfHtYS9qizTlYEO/1h/Lrm4fXgxtzISxFay0VY=","jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
 
        {"key":"二三","name":"二三┃App","type":3,"api":"csp_Skapp","playerType":2,"ext":"foDcK/eeOJLwwd5pQEogXfDd4NATiqgG/X+7Qpw+wjnlahxCG2tmmT4bpWOIRXC83aNIaDCVRfExbnEXrtzthNtQhRfvZNGEWY+ZdFcCkxW8ParA0r12xThUmCz92NHeRuEZ8Yqd5o
-	       DJNFU09V3B4yUG85t0ygZ2d9CTyMRh9J6rB8i14SBjlv2JY4fOi0QmwwiJmoQK5kTnnz8VCMcf7ZzankASe7oBYPZGtJl4DBogRs7ozrEnfYRLB03E53T4yK9mzhk95uMgJpdYiCRJ8qaf98YXeh5Ph5ZMAzioG+XPiSkVcRuVEa+jGlvci59fuDh2djZXztIjVyow8xOKrlA=="},
+	       DJNFU09V3B4yUG85t0ygZ2d9CTyMRh9J6rB8i14SBjlv2JY4fOi0QmwwiJmoQK5kTnnz8VCMcf7ZzankASe7oBYPZGtJl4DBogRs7ozrEnfYRLB03E53T4yK9mzhk95uMgJpdYiCRJ8qaf98YXeh5Ph5ZMAzioG+XPiSkVcRuVEa+jGlvci59fuDh2djZXztIjVyow8xOKrlA==","jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
 
 
 
-
-	 {
-      "key": "360影视",
-      "name": "360┃官源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
-    },
+{"key":"360_spider","name":"360┃解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"","jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
 	  
 	 {
       "key": "js_企鹅",
