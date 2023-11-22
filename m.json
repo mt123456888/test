@@ -24,16 +24,7 @@
       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;c0a0999c670692bb297b38981fe6de9b"},
     
 	
-	 {
-      "key": "t4_wo",
-      "name": "玩偶┃T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
-    },
+	
 	 
 	  {
             "key": "csp_Wogg",
