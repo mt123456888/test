@@ -46,7 +46,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/690.txt"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/690.txt",
+	      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mt123456888/test/main/jar/ou.jar;md5;0eac078be33d43e0c319780a1edde024"
     },
 
    {"key":"yc","name":"💖分享影巢","type": 3,"playerType":1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://jihulab.com/0004/0/-/raw/main/tk.php","jar":"https://download.kstore.space/download/4127/ali/app.jar"},
