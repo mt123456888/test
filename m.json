@@ -24,26 +24,17 @@
       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;c0a0999c670692bb297b38981fe6de9b"},
     
 	
-	/*  {
-      "key": "csp_FanYY",
-      "name": "玩偶┃云盘",
-      "type": 3,
-      "api": "csp_WoGG",
+	 {
+      "key": "t4_wo",
+      "name": "玩偶┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
-    }, */
-	  {
-      "key": "玩偶内置",
-      "name": "玩偶┃T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=81ab8f9713074912833212b517c4156b",
-    
-	
-	 "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mt123456888/test/main/jar/ou.jar;md5;0eac078be33d43e0c319780a1edde024"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt"
     },
+	 
 	  {
             "key": "csp_Wogg",
             "name": "👽玩偶哥哥┃4K",
@@ -53,7 +44,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/token.txt",
+                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/690.txt",
                 "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/TvJar-FongMi/main/json/wogg.json"
             }
         },
