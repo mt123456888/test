@@ -28,12 +28,12 @@
       "key": "t4_wo",
       "name": "玩偶┃T4",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/snow20222022/mao/main/690.txt",
-	      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mt123456888/test/main/jar/ou.jar;md5;0eac078be33d43e0c319780a1edde024"
+		 "jarr": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fm.jar;md5;fc220e1f9dff8ce2ee38d155f387ca90"
     },
 	 
 	  {
