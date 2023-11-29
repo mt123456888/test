@@ -110,6 +110,11 @@
 			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/XBPQ/NO视频.json",
 		     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"
 		},  
+
+	  {"key":"二三","name":"二三┃App","type":3,"api":"csp_Skapp","playerType":2,"ext":"ni5dRSBWYeWhGp9alBqGZFy2cxtz26FdaJ/QZR3uvYHu9qLW4lPQLU+hcdUiiaXJew0vfxRmUtNfNYAmajbjb4RDtpFTQP6OXMwKde/57Zt4XWW050MS+LSGpY1MJ5sF0LbC6dp2eq+YITaBvAl
+		  Qei9XNFspAglOkriJJPjqV+G+BYTm85/G7xQ5Q+5abqF10GAuh6RsTe0nBAu89yt3VeP7fPIBbQB64/fsueEYl4YL+1TSVV81RLMo7OKk45K571c53EbrgrrIQJdNIfgHLcz/uys5oaLnVhYv7BhMm3hVhlNKh+c9BkIzWRTvZaQj/wd8nI8hA4UDyAR4D9x74sQ==","jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
+
+           {"key":"K影","name":"K影┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
 	  {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
 	  
 	  {"key":"快看","name":"快看┃直连","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
@@ -347,7 +352,7 @@ YuzrgHMV0LSg7iwuDTWokjt0s8JwezEd11kk0BkNODAGrgWnGeWaZsCcs5cxLdajbEGjD/uHXhy9QtPN
  {"name":"全看","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	 
   { "name": "七七", "type": 1, "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=" },   
 
-     {"name":"巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url="},
+     {"name":"巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/wudi.php?url="},
   
 	  {
       "name": "高清",
