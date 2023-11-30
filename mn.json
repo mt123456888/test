@@ -349,7 +349,7 @@
       
 	 {"name": "往往","type": 1,"url": "http://wuzei.serv00.net/jx/ww.php?v="},
 	   {"name": "小成","type": 1,"url": "https://bfq.cddys.me/nimasile2/API.php?url="},
-	   { "name": "二龙", "type": 1, "url": "https://jxjson.cf/json.php?url=", "ext": { "flag": [ "qq", "mgtv","YuMi-vip" ] } },
+	  
 	   { "name": "四季", "type": 1, "url": "https://wuzei.serv00.net/jx/hx.php?url=" },
    
     { "name": "测试", "type": 1, "url": "https://parses.ruixianliang.repl.co/?url=" },
