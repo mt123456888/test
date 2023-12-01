@@ -18,7 +18,7 @@
       "name": "🐼️┃电视┃直播",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播转点播2.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播仓.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播.json"
     },
 	  {"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
     
