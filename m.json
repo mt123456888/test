@@ -336,7 +336,16 @@
         }
   ],
   "parses": [
-   
+           {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+   {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
    
 
 
@@ -345,11 +354,6 @@
 	  { "name": "七七", "type": 1, "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=" },   
 
     
-  
-
-     
-
-
 // {"name":"全民1","type":0,"url":"http://vip.wpsseo.cn/line.php?n=1&url="},
 // {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
 	  
