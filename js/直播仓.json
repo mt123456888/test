@@ -2,6 +2,13 @@
 {"name":"高天流云","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt"},
 {"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
 {"name": "Ray0直播", "url": "https://xhdwc.tk/tvlive.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png" },
-{"name":"范明","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"},
+{"name":"范明ipv6","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"},
+  {"name":"直播ipv6","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/txt/live.txt"},
+  {"name":"直播","url":"http://home.jundie.top:81/ray/tvlive.txt"},
+  {"name":"YanG-1989 IPv6","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
+  {"name":"whpsky-chinatv","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u"},
+  {"name":"YueChan IPv6","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
+  {"name":"APTV IPv6","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"},
+  {"name":"BESTV源","url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u"},
 { "name": "多多", "url": "https://agit.ai/leevi/duo/raw/branch/master/v.txt" }
 ]
