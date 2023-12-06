@@ -52,11 +52,11 @@
       "key": "js_czsapp",
       "name": "🏭️┃厂长┃资源",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/czspp.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/czspp.js"
     },
    
     {
@@ -86,7 +86,7 @@
     
         {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/","jar":"https://git.886.be/https://raw.githubusercontent.com/RayLiang9/0/main/mainjar"},
 	  
-	{"key":"drpy_素白白","name":"素白白[DRPY]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
+	{"key":"drpy_素白白","name":"素白白[DRPY]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
 	 "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/素白白.js"},
 	
 	  
@@ -374,6 +374,8 @@
 	   { "name": "四季", "type": 1, "url": "https://wuzei.serv00.net/jx/hx.php?url=" },
    
     { "name": "测试", "type": 1, "url": "https://parses.ruixianliang.repl.co/?url=" },
+	  
+	  {"name": "json1","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="},
 
 	   {"name":"全看","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},	 
    
