@@ -47,18 +47,19 @@
       {"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://ppxzy.net/$$$null$$$1", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fm.jar;md5;fc220e1f9dff8ce2ee38d155f387ca90", "timeout":30}, 
 	 
 	  {"key":"csp_Bdys","name":"🐞哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
-	 
+
+
 	   {
       "key": "厂长资源",
-      "name": "🏭️┃厂长┃资源",
+      "name": "厂长┃影视",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/lib/drpy2.min.js",
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/czspp.js",
-	 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fty1204.jar;md5;be6121b5c37471b191114027123912d2"	   
-      },
+      "changeable": 1,
+      "ext": "https://drpy.cainisi.cf/js/厂长资源.js",
+	 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fty1204.jar;md5;be6121b5c37471b191114027123912d2"
+    },
+	  
    
     {
       "key": "低端影视",
@@ -88,7 +89,8 @@
         {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/","jar":"https://git.886.be/https://raw.githubusercontent.com/RayLiang9/0/main/mainjar"},
 	  
 	{"key":"drpy_素白白","name":"素白白[DRPY]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
-	 "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/素白白.js"},
+	 "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/素白白.js",
+	 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fty1204.jar;md5;be6121b5c37471b191114027123912d2"},
 	
 	  
              {
