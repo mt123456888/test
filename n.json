@@ -54,7 +54,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/czspp.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/czspp.js"
     },
    
     {
@@ -101,7 +101,16 @@
 		     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"
 		},  
 
-	 
+	 {
+            "key": "玉米",
+            "name": "🌽玉米┃采集",
+            "type": 0,
+            "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+            "playUrl": "json:https://www.qiaoji8.com/tvbox/wudi.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 	  {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
 	  
 	  {"key":"快看","name":"快看┃直连","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
@@ -318,7 +327,9 @@ YuzrgHMV0LSg7iwuDTWokjt0s8JwezEd11kk0BkNODAGrgWnGeWaZsCcs5cxLdajbEGjD/uHXhy9QtPN
 	   
 	   { "name": "四季", "type": 1, "url": "https://wuzei.serv00.net/jx/hx.php?url=" },
 
-	 
+	 {"name": "json1","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="},
+	   {"name": "json2","type": 1,"url": "http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
+	   
 	  {
       "name": "dy6g",
       "type": 0,
