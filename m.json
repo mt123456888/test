@@ -646,8 +646,8 @@
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 // "spider": "https://tvbox.cainisi.cf/jar/fty0827.jar;md5;0b81c0ac4917ca94b8446758d09227e5"
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
-// "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fm.jar;md5;fc220e1f9dff8ce2ee38d155f387ca90"
+//"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
+ "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fm.jar;md5;fc220e1f9dff8ce2ee38d155f387ca90"
   //"spider":"https://gitee.com/mt123456888/tvhome/raw/master/jar/230314.jar;md5;573BE8213FA597C2E473C0ADF14B3A82"
  // "spider":"https://wanjune.github.io/static/tvbox/jar/230314.dylib;md5;573BE8213FA597C2E473C0ADF14B3A82"
  // "spider" : "https://gitee.com/mt123456888/tvhome/raw/master/jar/999.jar;md5;4FBFCC5F52D2C063F0EA4F0B9BCC04E4"
