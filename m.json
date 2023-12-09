@@ -1,7 +1,8 @@
 {
   "sites": [
 
-{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
+{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json",
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/pg.jar;md5;19cc25ee10378e8946ef872ec1de2dfe"},
  {
       "key": "豆瓣",
       "name": "豆瓣┃推荐",
