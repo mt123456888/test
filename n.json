@@ -20,7 +20,7 @@
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播转点播2.js",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/直播仓.json"
     },
-	  {"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1 },
+	  {"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;c0a0999c670692bb297b38981fe6de9b" },
     
 	 
 	  {"key":"csp_Bdys","name":"🐞哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
@@ -64,15 +64,7 @@
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/LIBVIO.js"
     },
-    
-	 {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/","jar":"https://git.886.be/https://raw.githubusercontent.com/RayLiang9/0/main/mainjar"},
-	  
-	  
-	{"key":"drpy_素白白","name":"素白白[DRPY]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
-	 "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/素白白.js"},
-	
-	  
-          {
+	    {
 			"key": "NO视频",
 			"name": "NO视频",
 			"type": 3,
@@ -84,14 +76,75 @@
 		     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/HeChengChaXiu.jar;md5;6FB0AAEC35994B1978B5F33646B344DD"
 		},  
 
-	
-	  {"key":"快看","name":"快看┃直连","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
+    
+	 {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/","jar":"https://git.886.be/https://raw.githubusercontent.com/RayLiang9/0/main/mainjar"},
+	   {
+            "key":"快看",
+            "name":"快看┃直连",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "playerType":2,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"
+            },
 
-	  {"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://ppxzy.net/$$$null$$$1", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fm.jar;md5;fc220e1f9dff8ce2ee38d155f387ca90", "timeout":30}, 
-	  
+     {
+      "key": "嘿嘿",
+      "name": "💘嘿嘿┃影视",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "http://tv.nxog.top/m/EXT/2.json",
+            "jar":"https://gitee.com/mtmz/test/raw/master/m/jar/ou.jar;md5;59a98ed1869e26027a3ff8d6070003f8"
+    },
+    {
+      "key": "超神",
+      "name": "💘超神┃影视",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "http://tv.nxog.top/m/EXT/3.json",
+            "jar":"https://gitee.com/mtmz/test/raw/master/m/jar/ou.jar;md5;59a98ed1869e26027a3ff8d6070003f8"
+    },
+    {
+      "key": "老虎",
+      "name": "💘老虎┃影视",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "http://tv.nxog.top/m/EXT/4.json",
+            "jar":"https://gitee.com/mtmz/test/raw/master/m/jar/ou.jar;md5;59a98ed1869e26027a3ff8d6070003f8"
+    },
+      {
+      "key": "南瓜",
+      "name": "💡南瓜┃影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "",
+            "jar":"https://gitee.com/mtmz/test/raw/master/m/jar/ou.jar;md5;59a98ed1869e26027a3ff8d6070003f8"
+    },
 	
-	  {"key":"Mayiys","name":"蚂蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1, "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fm.jar;md5;fc220e1f9dff8ce2ee38d155f387ca90"},
+	  {"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/TV/token.txt$$$https://ppxzy.net/$$$null$$$1", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fm.jar;md5;fc220e1f9dff8ce2ee38d155f387ca90", "timeout":30}, 
 	 
+	  {"key":"Mayiys","name":"蚂蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1, "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fm.jar;md5;fc220e1f9dff8ce2ee38d155f387ca90"},
+	 {"key":"drpy_素白白","name":"素白白[DRPY]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,
+	 "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/js/素白白.js"},
+	
 	 
      {"key":"聚合","name":"💞聚合解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},  
 
@@ -577,8 +630,9 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
- 
- "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;c0a0999c670692bb297b38981fe6de9b"
+
+ "spider": "https://gitee.com/mtmz/test/raw/master/m/jar/ou.jar;md5;59a98ed1869e26027a3ff8d6070003f8"
+// "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/fan.jar;md5;c0a0999c670692bb297b38981fe6de9b"
 // "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/main/jar/230626.dylib;md5;FDE01B569724386E7C72C675BA7D9658"
   //"spider":"https://gitee.com/mt123456888/tvhome/raw/master/jar/230314.jar;md5;573BE8213FA597C2E473C0ADF14B3A82"
  // "spider":"https://wanjune.github.io/static/tvbox/jar/230314.dylib;md5;573BE8213FA597C2E473C0ADF14B3A82"
