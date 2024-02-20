@@ -111,7 +111,9 @@
 		},  
 	  
 	   {"key":"快看","name":"快看┃直连","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"},
-      
+    
+	  {"key":"csp_三七","name":"🐱三七┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gggwang/gggdeng/760100e3093c438b22b1bdfe59dce452b0987ea1/XBPQ/777%E5%BD%B1%E8%A7%86.json",
+	   "jar":"https://ghproxy.net/https://raw.githubusercontent.com/zengzifeng520/ysc/f0a59cfa5d3c23906938e3ed9e0ce049d141053e/kaixin/lib/ttkx.jar"},
 
 	  
           {
