@@ -1,4 +1,7 @@
-[
+{
+	"spider": "https://gitee.com/mtmz/test/raw/master/m/jar/xc1201.jar;md5;986eea2da6934d04577661b4f1991ac6"
+  
+  "sites":[
 
    {
     "key": "皮皮虾",
@@ -29,3 +32,4 @@
     "filterable": 1
   }
 ]
+	}
