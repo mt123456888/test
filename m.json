@@ -102,16 +102,13 @@
     {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 
      {
-            "key": "荐片",
-            "name": "🐭荐片┃P2P",
-            "type": 3,
-            "api": "csp_JPJGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+      "key": "荐片",
+      "name": "☀荐片磁力",
+      "api": "csp_Jianpian",
+     "jar": "https://gh-proxy.com/https://github.com/mt123456888/test/raw/main/jar/tvkj.jar;md5; 260651539C761E8A42D0982D2492A84D",
+      "type": 3,
+      "ext": "https://api.ztcgi.com"
+    },
 
      {
             "key": "ppnix",
@@ -285,19 +282,18 @@
             }
         },
      {
-            "key": "freeok",
-            "name": "freeok｜影视",   //发布页：https://www.freeok.ooo/
+            "key": "freeokk.pro",    //fabu:   https://www.freeokk.me
+            "name": "freeok备用｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://gh-proxy.com/https://github.com/mt123456888/test/raw/main/jar/XYQ0720.jar;md5;08627128682cda2802a3c4ab7bc3a375",
             "ext": {
                   
-                "分类url": "https://www.freeok.icu/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$dianying#连续剧$juji#综艺$zongyi#动漫$dongman"
+                "分类url": "https://www.freeokk.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
             }
         },
 
-{"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/mtmz/test/raw/master/m/jar/Yoursmile251022.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
+//  {"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/mtmz/test/raw/master/m/jar/Yoursmile251022.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
 
 {"key": "js_en_gf","name": "🥭┃官方采集","type": 3,"api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/en_gf.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
 
@@ -309,7 +305,8 @@
       "key": "布布",
       "name": "🥇布布｜影视",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/布布.js"
+     // "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/布布.js"
+		 "api": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/refs/heads/main/catjs/布布.js"
     },
            {"key": "袋鼠影视(JS)","name": "🛸┃袋鼠┃影视","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/js/袋鼠影视.js","searchable": 1,"quickSearch": 1,"filterable": 1,"switchable": 1},
 
