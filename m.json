@@ -305,8 +305,8 @@
       "key": "布布",
       "name": "🥇布布｜影视",
       "type": 3,
-     // "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/布布.js"
-		 "api": "https://gh-proxy.com/https://raw.githubusercontent.com/mt123456888/test/refs/heads/main/catjs/布布.js"
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/布布.js"
+		
     },
            {"key": "袋鼠影视(JS)","name": "🛸┃袋鼠┃影视","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/js/袋鼠影视.js","searchable": 1,"quickSearch": 1,"filterable": 1,"switchable": 1},
 
@@ -711,7 +711,9 @@
 
   "lives": [
      
-
+            {"name": "北京联通","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/playlist/北京联通.txt","playerType":1},
+	    {"name": "江苏电信","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/playlist/江苏电信.txt","playerType":1},
+	  
       {"name":"Yoursmile","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
       
