@@ -710,7 +710,8 @@
 
 
   "lives": [
-     
+
+	   {"name": "组播优选","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/组播优选.txt","playerType":1},
             {"name": "北京联通","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/playlist/北京联通.txt","playerType":1},
 	    {"name": "江苏电信","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/playlist/江苏电信.txt","playerType":1},
 	  
