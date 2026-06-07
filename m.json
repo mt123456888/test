@@ -5,7 +5,8 @@
   //"spider":"https://oss4liview.moji.com/thd_file/2026/01/06/f506bb9442050f5d47a99d268fbfcaca.jpg;md5;6eabe6598103cd60323290c47a0c8b61",
 
   //"spider": "https://oss4liview.moji.com/thd_file/2026/03/04/5c1bf74084efe2f0a837efac09655420.jpg;md5;0a4bc903912b91621f12cb2c1b60bd2c",
-  "spider": "https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg;md5;0fbc678a0d45eb6ef3efee883d5167bf",
+   "spider": "https://file.icve.com.cn/file_doc/573/593/8F59443D53D73EF5E34581B77E3C5A15.jpg;md5;8f59443d53d73ef5e34581b77e3c5a15",
+
      
      "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   
@@ -37,8 +38,17 @@
   {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/mtmz/test/raw/master/m/jar/Yoursmile251022.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg0939791h1l3888jig44gi291li"},
 
   
-      
-     {
+        {
+      "key": "移动",
+      "name": "💡移动4K线路｜影视",
+      "type": 3,
+      "api": "csp_YDjisu",
+	 "jar":"https://gh-proxy.com/https://github.com/mt123456888/test/raw/main/jar/ou260517.jar;md5;5af5edf697f25b99eb189fb800e1d098",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+	  
+   /*  {
       "key": "公众号",
       "name": "4K┃线路",
       "type": 3,
@@ -46,7 +56,7 @@
       "api": "csp_YDjisu",
       "searchable": 1,
       "changeable": 1
-    },
+    },  */
     
  /*  {
       "key": "4k",
@@ -80,9 +90,41 @@
             "quickSearch": 1,
             "changeable": 1
         },
-          {
+	   {
       "key": "厂长",
-      "name": "厂长｜影视",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+        
+    
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+   
+
+    {"key":"糯米","name":"🍓糯米┃多线","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+   
+    {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
+
+
+
+	    {
+      "key": "厂长",
+      "name": "厂长｜影视(备用)",
       "type": 3,
       "api": "csp_XBPQ",
 		  "jar": "https://gh-proxy.com/https://github.com/mt123456888/test/raw/main/jar/XYQ0720.jar;md5;08627128682cda2802a3c4ab7bc3a375",
@@ -134,33 +176,42 @@
       }
     },
 
-    
-    {
-      "key": "文采",
-      "name": "💮文采┃秒播",
+ {
+      "key": "荐片",
+      "name": "🥝荐片┃不卡",
       "type": 3,
-      "api": "csp_JpysGuard",
+      "api": "csp_JPJGuard",
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 0
     },
-
-   
-
-    {"key":"糯米","name":"🍓糯米┃多线","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-   
-    {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
-
-     {
+	  
+   /*  {
       "key": "荐片",
       "name": "☀荐片磁力",
       "api": "csp_Jianpian",
      "jar": "https://gh-proxy.com/https://github.com/mt123456888/test/raw/main/jar/tvkj.jar;md5; 260651539C761E8A42D0982D2492A84D",
       "type": 3,
       "ext": "https://api.ztcgi.com"
+    },  */
+	    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixVGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
     },
-{"key":"电影港","name":"⛴️港湾┃电影","type":3,"api":"http://rihou.cc:88/js/drpy2.min.js","ext":"http://rihou.cc:88/js/电影港.js"},
+	  
+	
+	  {"key":"电影港","name":"⛴️港湾┃电影","type":3,"api":"https://gitee.com/mtmz/test/raw/master/m/lib/js/drpy2.min.js","ext":"https://gitee.com/mtmz/test/raw/master/m/js/电影港.js"},
+
+	  //  {"key":"电影港","name":"⛴️港湾┃电影","type":3,"api":"http://rihou.cc:88/js/drpy2.min.js","ext":"http://rihou.cc:88/js/电影港.js"},
      {
             "key": "ppnix",
             "name": "ppnix",
@@ -195,35 +246,11 @@
     },
 
     
-       
-      /*  {
-            "key": "✨映迷✨",
-            "name": "✨映迷✨乐哥甄选✨",
-            "type": 3,
-            "jar": "https://gitee.com/mtmz/test/raw/master/m/jar/xbpq戳专用.jar;md5;D7D65F2B7FB84AE92A3CC7B2F0138FCD",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.inmi.app",
-                "分类url": "https://www.inmi.app/index.php/api/vod;post;type={cateId}&page={catePg}&time=时间戳&key=md5(DS时间戳DCC147D11943AF75)&area={area}&class={class}&by={by}&lang={lang}&letter={letter}&year={year};;mrcd0",
-                "分类": "电影&剧集&综艺&动漫&短剧",
-                "分类值": "20&21&23&22&26&27",
-                "数组": "list",
-                "标题": "vod_name",
-                "图片": "vod_pic",
-                "副标题": "'✨'+vod_remarks",
-                "链接": "'/video/'+vod_id+'.html'"
-            }
-        },   */
-
+  
       
        // {"key":"星辰影院","name":"🪐星辰┃（羊）","type":3,"api":"http://rihou.cc:88/js/星辰影院.js"},
 
-//{"key":"电影港","name":"⛴️港湾┃电影","type":3,"api":"http://rihou.cc:88/js/drpy2.min.js","ext":"http://rihou.cc:88/js/电影港.js"},
+
 
 
   
@@ -295,18 +322,7 @@
                 "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$5"
             }
         },
-        {
-            "key": "完美看看",
-            "name": "完美看看｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar":"https://gh-proxy.com/https://github.com/mt123456888/test/raw/main/jar/XYQ0720.jar;md5;08627128682cda2802a3c4ab7bc3a375",
-            "ext": {
-                "分类url": "https://www.wanmeikk.me/list/{cateId}---{class}-----{catePg}---{year}.html",
-                "分类": "动作$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#剧情片$juqing#战争片$zhanzheng#动画电影$donghua#国产剧$guochanju"
-            }
-        },
-
+       
 
         {
             "key": "星辰影视",
@@ -337,6 +353,7 @@
             "name": "freeok备用｜影视",
             "type": 3,
             "api": "csp_XBPQ",
+		  "jar":"https://gh-proxy.com/https://github.com/mt123456888/test/raw/main/jar/XYQ0720.jar;md5;08627128682cda2802a3c4ab7bc3a375",
             "ext": {
                   
                 "分类url": "https://www.freeokk.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
@@ -351,23 +368,20 @@
 
 //{"key":"热播","name":"♨热播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li","jar":"https://gitee.com/mtmz/test/raw/master/m/jar/Yoursmile1.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
 
-
-         {
-      "key": "布布",
-      "name": "🥇布布｜影视",
+     {
+      "key": "戒",
+      "name": "🥇视界｜影视",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/布布.js"
-		
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/界.py",
+      "changeable": 1
     },
-           {"key": "袋鼠影视(JS)","name": "🛸┃袋鼠┃影视","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/js/袋鼠影视.js","searchable": 1,"quickSearch": 1,"filterable": 1,"switchable": 1},
-
- 
-         {
-      "key": "爱看机器1人",
-      "name": "🥇爱看┃影视",
+	    {
+      "key": "独播库",
+      "name": "🥇播库┃影视",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/爱看机器人.js"
-      },
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
+    },
+        
 
        {
             "key": "红牛CJ",
