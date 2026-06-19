@@ -228,6 +228,7 @@
             "name": "高清族磁力｜影视",
             "type": 3,
             "api": "csp_XBPQ",
+			 "jar": "https://gh-proxy.com/https://github.com/mt123456888/test/raw/main/jar/XYQ0720.jar;md5;08627128682cda2802a3c4ab7bc3a375",
             "ext": {
                  "播放数组": "<tbody>&&</tbody>",
                 "播放列表": "<a&&</a>",
@@ -236,6 +237,26 @@
                 "分类url": "https://www.hdzu.cc/movie/map?class={cateId}&type={class}&area={area}&year={year}&page={catePg}",
                 "分类": "电影$1#连续剧$5"
              }
+        },
+
+	   {
+            "key": "七味",      //发布页：https://www.qn63.com
+            "name": "七味磁力｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+		    "jar": "https://gh-proxy.com/https://github.com/mt123456888/test/raw/main/jar/XYQ0720.jar;md5;08627128682cda2802a3c4ab7bc3a375",
+            "ext": {
+           //  "线路数组": "<div class=\"wrap row\">&&<li",
+  // "线路标题": "<h2>&&</h2>",
+         "播放数组": "<div class=\"down-list tab-content\">&&</div>",
+    "播放标题": "title=\"&&\"",
+  //  "播放数组": "vod_play_url\":&&,[替换:\">>接表题#$>>题接#\\#>>接表表题]",
+    "播放列表": "class=\"down-list3\">&&</a>[不包含:720p]",
+       "播放链接": "href=\"&&\"",
+  "搜索url": "https://www.qwshow.com/vs/-------------.html?wd={wd}",
+    "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$30",
+    "分类url": "https://www.qwshow.com/ms/{cateId}-{area}--{class}-----{catePg}---{year}.html"
+            }
         },
 	  
      {
